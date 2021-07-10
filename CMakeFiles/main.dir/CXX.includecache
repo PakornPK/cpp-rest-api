@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pakorn/Desktop/workshop/cpp/cpp-rest-api/main.cpp
+cpprest/json.h
+-
+cpprest/http_listener.h
+-
+iostream
+-
+
